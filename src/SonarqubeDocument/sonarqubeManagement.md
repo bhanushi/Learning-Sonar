@@ -112,5 +112,5 @@ For example:
 C:\sonar-scanner-6.2.0.4584-windows-x64\bin\sonar-scanner.bat -D"sonar.projectKey=Sample" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.token=sqp_e9f43e46549153609a8e9c6e183e554f7f647734" -D"sonar.javascript.lcov.reportPaths=./coverage/lcov.info"
 
 
-Video detail :- https://drive.google.com/file/d/18Il-Y8b1pCWoejJBplLqKoxLV8S-e1Cc/view?usp=drive_link
+Video detail :- https://drive.google.com/file/d/1tsdI5hBHp2YuUcK3i3f-aVoq7BnxICOh/view?usp=sharing
 
